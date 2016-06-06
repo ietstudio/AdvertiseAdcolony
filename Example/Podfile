@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AdvertiseAdcolony_Example' do
+  pod 'AdvertiseAdcolony', :path => '../'
+
+  target 'AdvertiseAdcolony_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
