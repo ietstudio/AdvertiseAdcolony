@@ -3,6 +3,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 # use_frameworks!
 
 target 'AdvertiseAdcolony_Example' do
+  platform :ios, '7.0'
   pod 'AdvertiseAdcolony', :path => '../'
 
   target 'AdvertiseAdcolony_Tests' do

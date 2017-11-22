@@ -10,9 +10,9 @@
 #import "AdvertiseDelegate.h"
 #import "Macros.h"
 
-#define Adcolony_Name   @"Adcolony"
-#define Adcolony_AppId  @"Adcolony_AppId"
-#define Adcolony_ZoneId @"Adcolony_ZoneId"
+#define Adcolony_Name               @"Adcolony"
+#define Adcolony_AppId              @"Adcolony_AppId"
+#define Adcolony_ZoneId             @"Adcolony_ZoneId"
 
 @interface ACAdvertiseHelper : NSObject <AdvertiseDelegate>
 

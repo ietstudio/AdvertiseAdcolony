@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AdvertiseAdcolony'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'AdvertiseAdcolony'
 
 # This description is used to generate tags and improve search results.
@@ -40,6 +40,6 @@ AdvertiseAdcolony.
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
   s.dependency 'GamePluginBase'
-  s.dependency 'AdColony', '~> 2.6.1'
+  s.dependency 'AdColony', '~> 3.2.1'
 
 end
