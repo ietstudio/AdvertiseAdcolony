@@ -22,7 +22,7 @@ pod "AdvertiseAdcolony"
 
 ## Author
 
-gaoyang, gaoyang@joycastle.mobi
+gaoyang
 
 ## License
 
